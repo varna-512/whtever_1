@@ -1,0 +1,3 @@
+city,year,health_outcome,exposure,temperature_c,effect,effect_unit,source,use
+Ahmedabad,2010,All-cause mortality,Heat wave,46.8,43.1,percent increase,"Azhar et al., 2014",Mortality calibration anchor
+Ahmedabad,2010,Heat-related NICU admissions,Daily maximum temperature above 42 C,42.0,43.0,percent increase per 1 C,"Basu et al., Ahmedabad heat study",Hospitalization calibration anchor
